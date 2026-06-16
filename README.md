@@ -2,7 +2,7 @@
 
 Intelligence analysis platform for Delhi NCR — think Palantir Gotham, but built in a weekend on Next.js.
 
-![screenshot](https://github.com/vibhav-14/argus-ncr/blob/master/public/ouroboros.svg)
+![logo](https://github.com/vibhav-14/argus-ncr/blob/master/public/ouroboros.webp)
 
 > ⚠️ **This is a demonstration/simulation.** All data is synthetic. No real intelligence or PII is included. The scenario is fictional.
 
@@ -94,7 +94,7 @@ No external APIs. No databases. The entire thing runs off JSON files in `public/
 
 I wanted to understand how intelligence platforms work under the hood. Data fusion, entity resolution, link analysis, geospatial visualization, predictive modeling — these are real problems that Palantir charges millions for. This is a weekend prototype that demonstrates the core concepts.
 
-Built with [AutoClaw](https://openclaw.ai) by winter4.
+Built over a weekend with Next.js, Leaflet, and a lot of coffee.
 
 ## License
 

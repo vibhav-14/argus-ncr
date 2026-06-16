@@ -34,7 +34,7 @@ export default function Sidebar({ currentView, onViewChange, alertCount }: Sideb
     <div className="h-full flex flex-col" style={{ width: '220px', minWidth: '220px', background: 'var(--bg-secondary)', borderRight: '1px solid var(--border)' }}>
       {/* Logo */}
       <div className="px-4 py-4 flex items-center gap-2" style={{ borderBottom: '1px solid var(--border)' }}>
-        <OuroborosLogo size={30} />
+        <OuroborosLogo />
         <div>
           <div className="text-sm font-bold tracking-wider" style={{ color: 'var(--accent-cyan)' }}>ARGUS-NCR</div>
           <div className="text-[10px] tracking-widest" style={{ color: 'var(--text-secondary)' }}>ARGUS INTEL</div>

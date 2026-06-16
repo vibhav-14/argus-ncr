@@ -10,7 +10,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className="dark">
       <head>
-        <link rel="icon" href="/ouroboros.svg" type="image/svg+xml" />
+        <link rel="icon" href="/ouroboros.png" type="image/png" />
         <link
           rel="stylesheet"
           href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"

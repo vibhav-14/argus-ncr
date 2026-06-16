@@ -16,7 +16,8 @@ const STATIC_FILES = {
   '/daily-feed.json': 'public/daily-feed.json',
   '/phase2-feed.json': 'public/phase2-feed.json',
   '/phase3-feed.json': 'public/phase3-feed.json',
-  '/ouroboros.svg': 'public/ouroboros.svg',
+  '/ouroboros.webp': 'public/ouroboros.webp',
+  '/ouroboros.png': 'public/ouroboros.png',
 };
 
 const INDEX = '.next/server/app/index.html';

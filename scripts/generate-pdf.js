@@ -112,7 +112,7 @@ DOC.text('All Phases · All Features · All Modules', MARGIN, 97);
 DOC.setFontSize(8);
 DOC.text('Classification: UNCLASSIFIED (Demonstration Model)', MARGIN, 115);
 DOC.text(`Generated: ${new Date().toLocaleDateString('en-IN', { day: '2-digit', month: 'long', year: 'numeric' })}`, MARGIN, 122);
-DOC.text('Agent: winter4 · Platform: AutoClaw', MARGIN, 129);
+DOC.text('Built with Next.js 16 + TypeScript + Tailwind', MARGIN, 129);
 
 // Architecture overview box
 DOC.setDrawColor(42, 53, 85);
@@ -501,7 +501,7 @@ y = y + 35 + stats.length * 8 + 15;
 DOC.setFontSize(8);
 DOC.setTextColor(100, 116, 139);
 DOC.text('Classification: UNCLASSIFIED | Demonstration Model with Synthetic Data', MARGIN, y);
-DOC.text('Built with AutoClaw | Agent: winter4 | Stack: Next.js 16 + TypeScript + Tailwind', MARGIN, y + 5);
+DOC.text('Stack: Next.js 16 + TypeScript + Tailwind + Leaflet', MARGIN, y + 5);
 DOC.text('No real intelligence, PII, or classified information is included.', MARGIN, y + 10);
 
 // ─── SAVE ────────────────────────────────────────────────────────────
