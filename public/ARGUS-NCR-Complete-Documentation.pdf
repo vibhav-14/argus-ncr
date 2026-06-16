@@ -1,0 +1,2664 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4607
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 32 Tf
+36.7999999999999972 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 671.8112598425196893 Td
+(ARGUS-NCR) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.58 0.639 0.722 rg
+56.6929133858267775 637.7955118110235162 Td
+(Delhi NCR Intelligence Platform) Tj
+ET
+0.02 0.71 0.83 RG
+2.8346456692913389 w
+56.6929133858267775 620.7876377952754865 m
+226.7716535433071101 620.7876377952754865 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0.58 0.639 0.722 rg
+56.6929133858267775 586.7718897637794271 Td
+(Complete Technical Documentation) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.58 0.639 0.722 rg
+56.6929133858267775 566.9293700787401349 Td
+(All Phases · All Features · All Modules) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+56.6929133858267775 515.9057480314959321 Td
+(Classification: UNCLASSIFIED \(Demonstration Model\)) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+56.6929133858267775 496.0632283464566399 Td
+(Generated: 16 June 2026) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+56.6929133858267775 476.2207086614172908 Td
+(Agent: winter4 · Platform: AutoClaw) Tj
+ET
+0.16 0.21 0.33 RG
+0.07 0.09 0.15 rg
+65.1968503937007995 445.0396062992125508 m
+530.0787401574804107 445.0396062992125508 l
+534.7753348804508278 445.0396062992125508 538.5826771653544256 441.2322640143090098 538.5826771653544256 436.5356692913385359 c
+538.5826771653544256 368.5041732283463602 l
+538.5826771653544256 363.8075785053758864 533.8860824423838949 360.0002362204723454 530.0787401574804107 360.0002362204723454 c
+65.1968503937007995 360.0002362204723454 l
+60.5002556707302688 360.0002362204723454 56.6929133858267775 364.6968309434428761 56.6929133858267775 368.5041732283463602 c
+56.6929133858267775 436.5356692913385359 l
+56.6929133858267775 441.2322640143090098 61.3895081087973011 445.0396062992125508 65.1968503937007995 445.0396062992125508 c
+h
+B
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.024 0.714 0.831 rg
+65.1968503937007995 422.3624409448818255 Td
+(Architecture) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+65.1968503937007995 402.5199212598424765 Td
+(Next.js 16 + React + TypeScript + Tailwind CSS) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+65.1968503937007995 388.3466929133857661 Td
+(Leaflet Maps · Custom SVG Graphs · Recharts · jspdf) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.58 0.639 0.722 rg
+65.1968503937007995 374.1734645669290558 Td
+(Node.js Data Pipelines · Cron Automation · Real-time JSON Feeds) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 331.6537795275589815 Td
+(Phase Overview) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 303.3073228346455608 Td
+(Phase 1) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.659 0.333 0.969 rg
+127.5590551181102512 303.3073228346455608 Td
+(Core Platform) Tj
+ET
+BT
+/F2 7 Tf
+8.0499999999999989 TL
+0.58 0.639 0.722 rg
+212.5984251968504282 303.3073228346455608 Td
+(Dashboard · Geo-Spatial · Graph · Timeline · Alerts · Data Explorer) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 263.6222834645668627 Td
+(Phase 2) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.659 0.333 0.969 rg
+127.5590551181102512 263.6222834645668627 Td
+(Data Connectors) Tj
+ET
+BT
+/F2 7 Tf
+8.0499999999999989 TL
+0.58 0.639 0.722 rg
+212.5984251968504282 263.6222834645668627 Td
+(News Scraper · Beat Analytics · ANPR Tracker) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 223.9372440944881646 Td
+(Phase 3) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.659 0.333 0.969 rg
+127.5590551181102512 223.9372440944881646 Td
+(AI Analysis) Tj
+ET
+BT
+/F2 7 Tf
+8.0499999999999989 TL
+0.58 0.639 0.722 rg
+212.5984251968504282 223.9372440944881646 Td
+(Entity Extraction · Relationship Discovery · Risk Scoring · Anomalies) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 184.2522047244093528 Td
+(Phase 4) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.659 0.333 0.969 rg
+127.5590551181102512 184.2522047244093528 Td
+(Operations) Tj
+ET
+BT
+/F2 7 Tf
+8.0499999999999989 TL
+0.58 0.639 0.722 rg
+212.5984251968504282 184.2522047244093528 Td
+(Case Management · Live Tracking · Agency Fusion · Evidence Chain) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 144.5671653543306547 Td
+(Phase 5) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.659 0.333 0.969 rg
+127.5590551181102512 144.5671653543306547 Td
+(Predictive) Tj
+ET
+BT
+/F2 7 Tf
+8.0499999999999989 TL
+0.58 0.639 0.722 rg
+212.5984251968504282 144.5671653543306547 Td
+(Hotspot Prediction · Disruption Simulation · Threat Forecast) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1414
+>>
+stream
+2.8346456692913389 w
+0.16 0.21 0.33 RG
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 785.1970866141732586 Td
+(Table of Contents) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 768.1892125984251152 m
+198.4251968503937178 768.1892125984251152 l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 745.5120472440944468 Td
+(1. Phase 1 — Core Intelligence Platform) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 728.5041732283464171 Td
+(2. Phase 2 — Live Data Connectors) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 711.4962992125983874 Td
+(3. Phase 3 — AI-Powered Analysis) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 694.4884251968503577 Td
+(4. Phase 4 — Operational Capabilities) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 677.480551181102328 Td
+(5. Phase 5 — Predictive Platform) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 660.4726771653542983 Td
+(6. Dataset & Intelligence Scenario) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 643.4648031496062686 Td
+(7. Automation & Scheduling) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 626.4569291338582389 Td
+(8. Technical Architecture) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 7997
+>>
+stream
+1.4173228346456694 w
+0.02 0.71 0.83 RG
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 785.1970866141732586 Td
+(1. Phase 1 — Core Intelligence Platform) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 768.1892125984251152 m
+198.4251968503937178 768.1892125984251152 l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 745.5120472440944468 Td
+(The foundation of ARGUS-NCR. A dark-theme military-grade intelligence dashboard with six interconnected modules built) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 731.3388188976377933 Td
+(on Next.js 16 with TypeScript and Tailwind CSS.) Tj
+ET
+0.16 0.21 0.33 RG
+0.8503937007874016 w
+56.6929133858267775 711.4962992125983874 m
+538.5826771653544256 711.4962992125983874 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 694.4884251968503577 Td
+(1.1 Operations Dashboard) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 671.8112598425196893 Td
+(Real-time command center displaying the complete intelligence picture.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 657.6380314960629221 Td
+(•  8 live stat cards: Total Entities, Active Alerts, Critical Alerts, Persons of Interest, Locations Monitored, Links) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 643.4648031496062686 Td
+(Traced, Communications Intercepted, Financial Anomalies) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 629.291574803149615 Td
+(•  Risk distribution pie chart — Critical / High / Medium / Low breakdown with color-coded segments) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 615.1183464566928478 Td
+(•  Entity distribution bar chart — categorization by type \(Person, Location, Vehicle, Organization, Event,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 600.9451181102361943 Td
+(Communication, Financial\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 586.7718897637794271 Td
+(•  Live activity feed with timestamps and severity indicators) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 572.5986614173227736 Td
+(•  Active alerts panel with acknowledgment tracking and severity filtering) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 558.42543307086612 Td
+(•  30-second auto-polling for fresh data without page refresh) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 544.2522047244094665 Td
+(1.2 Geo-Spatial Analysis) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 521.5750393700786844 Td
+(Interactive dark-themed CartoDB map of the entire Delhi NCR region \(13 police districts, 15+ key locations\).) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 507.4018110236219741 Td
+(•  Entity markers color-coded by type: Person \(blue\), Location \(green\), Vehicle \(yellow\), Organization \(purple\),) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 493.2285826771653205 Td
+(Event \(orange\), Communication \(cyan\), Financial \(red\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 479.0553543307086102 Td
+(•  Risk heat zones — pulsing overlay circles sized by risk score, color-coded red/orange/yellow) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 464.8821259842518998 Td
+(•  Police district boundaries — 13 districts across Delhi, Gurugram, Noida, Ghaziabad, Faridabad) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 450.7088976377952463 Td
+(•  Relationship lines — dashed lines connecting linked entities on the map) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 436.5356692913385359 Td
+(•  Layer controls — filter by entity type, toggle heat zones, toggle district boundaries) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 422.3624409448818255 Td
+(•  Click-to-inspect detail panel showing properties, tags, risk score, connected entities) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 408.1892125984251152 Td
+(1.3 Graph Analysis) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 385.5120472440944468 Td
+(Force-directed entity relationship graph with custom SVG physics simulation.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 371.3388188976377364 Td
+(•  28 entities, 30 relationship links in the base network) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 357.1655905511810261 Td
+(•  Node sizing varies by entity type, high-risk entities have red warning rings) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 342.9923622047243725 Td
+(•  Hover to highlight connections and display link labels) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 328.8191338582676053 Td
+(•  Click to open detail panel with full properties, risk gauge, tags, connections) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 314.6459055118109518 Td
+(•  Type-based filtering — show/hide entity types to isolate networks) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 300.4726771653542983 Td
+(•  Dark grid background with glow effects on interaction) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 286.2994488188975311 Td
+(1.4 Event Timeline) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 263.6222834645668627 Td
+(Chronological reconstruction of all timestamped intelligence events.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 249.4490551181102092 Td
+(•  Events grouped by date with severity-colored dots \(Critical=Red, High=Orange, Medium=Yellow, Low=Green\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 235.2758267716534419 Td
+(•  Risk score display per event with visual gauge) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 221.1025984251967884 Td
+(•  Property summaries and tag indicators inline) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 206.9293700787401349 Td
+(•  Visual timeline rail with event markers for rapid scanning) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 192.7561417322833677 Td
+(1.5 Alerts Center) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 170.0789763779526993 Td
+(Dedicated alert management system with filtering and acknowledgment workflow.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 155.9057480314959321 Td
+( •     S e v e r i t y - o r d e r e d   a l e r t   c a r d s   \( C r i t i c a l  !’   L o w \)   w i t h   c o l o r - c o d e d   b o r d e r s) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 141.7325196850392786 Td
+(•  Acknowledged/Unacknowledged sections for workflow tracking) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 127.559291338582625 Td
+(•  Timestamp, location coordinates, and linked entity references per alert) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 113.3860629921258578 Td
+(•  Severity badges with iconography \(Critical=Shield, High=AlertTriangle, etc.\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 99.2128346456692043 Td
+(•  8 base alerts covering cross-border movement, hawala, encrypted comms, customs, land fraud, financial) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1289
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 785.1970866141732586 Td
+(1.6 Data Explorer) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 762.5199212598424765 Td
+(Full entity database with search, filter, sort, and expand capabilities.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 748.346692913385823 Td
+(•  Search across name, type, tags, and property values) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 734.1734645669291695 Td
+(•  Filter by entity type dropdown) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 720.0002362204724022 Td
+(•  Sort by risk score \(ascending/descending\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 705.8270078740157487 Td
+(•  Expandable rows showing properties and connections) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 691.6537795275589815 Td
+(•  Inline risk score bar visualization) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 677.480551181102328 Td
+(•  Detail panel with full property dump, location, tags, connected entities) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 4497
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 785.1970866141732586 Td
+(2. Phase 2 — Live Data Connectors) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 768.1892125984251152 m
+198.4251968503937178 768.1892125984251152 l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 745.5120472440944468 Td
+(Three real-time data pipelines feeding live intelligence into the platform. Runs hourly via cron automation.) Tj
+ET
+0.16 0.21 0.33 RG
+0.8503937007874016 w
+56.6929133858267775 725.6695275590550409 m
+538.5826771653544256 725.6695275590550409 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 708.6616535433070112 Td
+(2.1 News Scraper) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 685.9844881889763428 Td
+(Real-time news aggregation from 5 Indian media RSS feeds focused on Delhi NCR.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 671.8112598425196893 Td
+(•  Sources: Times of India Delhi, The Hindu Delhi, Indian Express Delhi, NDTV Cities, Hindustan Times Delhi) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 657.6380314960629221 Td
+(•  15 real articles per scrape with title, description, publication date, and source) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 643.4648031496062686 Td
+(•  Items displayed with source badges, timestamps, and clickable external links) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 629.291574803149615 Td
+(•  Auto-refresh every hour via cron job) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 615.1183464566928478 Td
+(2.2 Beat Analytics) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 592.4411811023621794 Td
+(Crime pattern simulation by police district across the entire NCR.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 578.2679527559055259 Td
+(•  14 police districts covered: all 10 Delhi districts + Gurugram, Noida, Ghaziabad, Faridabad) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 564.0947244094487587 Td
+(•  15 crime types tracked: theft, burglary, assault, vehicle-theft, chain-snatching, cyber-fraud, domestic-violence,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 549.9214960629921052 Td
+(drug-possession, eve-teasing, snatching, robbery, riot, murder, kidnapping, extortion) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 535.748267716535338 Td
+(•  Per-capita incident rates calculated against district population) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 521.5750393700786844 Td
+(•  Risk scores assigned based on incident count and crime type severity) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 507.4018110236219741 Td
+(•  7 reports generated per hourly cycle) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 493.2285826771653205 Td
+(2.3 ANPR Tracker) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 470.5514173228345953 Td
+(Simulated Automated Number Plate Recognition feed tracking vehicle movement.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 456.378188976377885 Td
+(•  8 tracked vehicles including known POI vehicles and unknown flagged plates) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 442.2049606299212314 Td
+(•  10 ANPR camera locations across Delhi NCR \(toll plazas, junctions, border checkpoints\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 428.0317322834645211 Td
+(•  Vehicle details: plate number, make/model, color, registered owner) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 413.8585039370078107 Td
+(•  Flagged vs un-flagged classification with confidence scores) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 399.6852755905511003 Td
+(•  Direction tracking \(Northbound/Southbound/Eastbound/Westbound\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 385.5120472440944468 Td
+(•  5-10 hits per hourly cycle with 60-75% flag rate) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 6247
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 785.1970866141732586 Td
+(3. Phase 3 — AI-Powered Analysis) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 768.1892125984251152 m
+198.4251968503937178 768.1892125984251152 l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 745.5120472440944468 Td
+(Four AI engines processing Phase 2 data to extract intelligence, discover relationships, score risk dynamically, and detect) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 731.3388188976377933 Td
+(anomalies.) Tj
+ET
+0.16 0.21 0.33 RG
+0.8503937007874016 w
+56.6929133858267775 711.4962992125983874 m
+538.5826771653544256 711.4962992125983874 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 694.4884251968503577 Td
+(3.1 Entity Extraction \(NER\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 671.8112598425196893 Td
+(Pattern-based Named Entity Recognition optimized for Indian names, Delhi NCR locations, and organization types.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 657.6380314960629221 Td
+(•  Person extraction: matches Indian first names + surnames against comprehensive name database \(35+ first) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 643.4648031496062686 Td
+(names, 35+ surnames\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 629.291574803149615 Td
+(•  Organization extraction: pattern-matches company/organization keywords \(Corp, Ltd, LLC, Group, Syndicate,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 615.1183464566928478 Td
+(Police, Bureau, Bank, etc.\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 600.9451181102361943 Td
+(•  Location extraction: matches against 25+ known Delhi NCR locations with geo-coordinates) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 586.7718897637794271 Td
+(•  Processes all 15 Phase 2 news articles per cycle) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 572.5986614173227736 Td
+(3.2 Relationship Discovery) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 549.9214960629921052 Td
+(Co-occurrence analysis engine that finds hidden connections between entities.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 535.748267716535338 Td
+(•  Cross-type co-occurrence: persons-to-organizations, persons-to-locations, orgs-to-locations) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 521.5750393700786844 Td
+(•  Name-matching: detects when extracted entities match known database entities) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 507.4018110236219741 Td
+(•  Confidence scoring: 55-95% based on co-occurrence frequency and pattern strength) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 493.2285826771653205 Td
+(•  Evidence trail: links each discovered relationship back to source article) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 479.0553543307086102 Td
+(3.3 Dynamic Risk Scoring) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 456.378188976377885 Td
+(Behavioral analysis model that recalculates entity risk scores based on real-time activity patterns.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 442.2049606299212314 Td
+(•  Factor 1 — Communication Volume: number of intercepted comms in 24h window) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 428.0317322834645211 Td
+(•  Factor 2 — Movement Patterns: flagged ANPR hits per entity) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 413.8585039370078107 Td
+(•  Factor 3 — Financial Activity: flagged transactions per entity) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 399.6852755905511003 Td
+(•  Factor 4 — Network Position: HVT designation and known threat tags) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 385.5120472440944468 Td
+(•  Factor 5 — News Exposure: mentions in scraped news articles) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 371.3388188976377364 Td
+( •     T r e n d   i n d i c a t o r s :   E s c a l a t i n g  !‘   /   S t a b l e  !’   /   D e c l i n i n g  !“) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 357.1655905511810261 Td
+(•  8 entities tracked with recalculated scores per cycle) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 342.9923622047243725 Td
+(3.4 Anomaly Detection) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 320.3151968503935905 Td
+(Statistical baseline deviation detection across four dimensions.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 306.1419685039369369 Td
+(•  Communication Spike: flags entities with 80%+ above-average comms volume) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 291.9687401574802834 Td
+(•  Route Anomaly: flags vehicles detected at 3+ distinct locations \(unusual movement\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 277.7955118110235162 Td
+(•  Financial Cluster: flags entities with 2+ flagged transactions in 24h) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 263.6222834645668627 Td
+(•  Crime Cluster: flags districts with 4+ reported incidents \(hotspot formation\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 249.4490551181102092 Td
+(•  Deviation percentage calculated against rolling baselines) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 235.2758267716534419 Td
+(•  3 anomalies detected per average cycle) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 5316
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 785.1970866141732586 Td
+(4. Phase 4 — Operational Capabilities) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 768.1892125984251152 m
+198.4251968503937178 768.1892125984251152 l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 745.5120472440944468 Td
+(Mission-ready operational tools for case management, live tracking, multi-agency coordination, and evidence chain) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 731.3388188976377933 Td
+(custody.) Tj
+ET
+0.16 0.21 0.33 RG
+0.8503937007874016 w
+56.6929133858267775 711.4962992125983874 m
+538.5826771653544256 711.4962992125983874 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 694.4884251968503577 Td
+(4.1 Case Management) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 671.8112598425196893 Td
+(Active investigation tracking system with 5 open cases across multiple agencies.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 657.6380314960629221 Td
+(•  Case IDs with severity classification \(Critical/High/Medium\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 643.4648031496062686 Td
+(•  Lead agency assignment with color-coded agency badges) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 629.291574803149615 Td
+(•  Entity linking — each case tracks associated persons, orgs, vehicles) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 615.1183464566928478 Td
+(•  Status tracking with last update timestamps) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 600.9451181102361943 Td
+(•  Case descriptions with operational context) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 586.7718897637794271 Td
+(4.2 Live GPS/ANPR Tracking) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 564.0947244094487587 Td
+(Real-time asset tracking with GPS coordinates, speed, heading, and status.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 549.9214960629921052 Td
+(•  4 tracked assets: 2 vehicles + 2 field units) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 535.748267716535338 Td
+(•  Live GPS coordinates with refresh indicators) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 521.5750393700786844 Td
+(•  Speed, heading, and last-ping timestamps) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 507.4018110236219741 Td
+(•  Active/Idle status with pulsing green indicators) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 493.2285826771653205 Td
+(•  Integration with ANPR camera network) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 479.0553543307086102 Td
+(4.3 Agency Fusion Center) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 456.378188976377885 Td
+(Multi-agency coordination dashboard with 6 participating agencies.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 442.2049606299212314 Td
+(•  Agencies: Delhi Police \(84,000 officers\), NIA, Enforcement Directorate \(2,000\), Customs Intelligence \(3,500\),) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 428.0317322834645211 Td
+(Intelligence Bureau \(17,000\), Cyber Cell \(450\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 413.8585039370078107 Td
+(•  Per-agency case assignments with severity badges) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 399.6852755905511003 Td
+(•  Secure comms indicator between agencies) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 385.5120472440944468 Td
+(•  Total 359 active cases across all agencies) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 371.3388188976377364 Td
+(4.4 Evidence Chain) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 348.6616535433070112 Td
+(Custody chain tracking for all evidence items with multi-point verification.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 334.4884251968503008 Td
+(•  5 evidence items tracked with unique IDs) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 320.3151968503935905 Td
+(•  Evidence types: Phone Intercept, Document, Financial Record, Bank Statement, Property Deed) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 306.1419685039369369 Td
+(•  Custody location tracking per evidence item) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 291.9687401574802834 Td
+(•  Chain-of-custody counter \(number of custodians who handled each item\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 277.7955118110235162 Td
+(•  Case linkage — each evidence item mapped to parent case) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 4485
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 785.1970866141732586 Td
+(5. Phase 5 — Predictive Platform) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 768.1892125984251152 m
+198.4251968503937178 768.1892125984251152 l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 745.5120472440944468 Td
+(Forward-looking analytical tools for hotspot prediction, network disruption simulation, and threat forecasting.) Tj
+ET
+0.16 0.21 0.33 RG
+0.8503937007874016 w
+56.6929133858267775 725.6695275590550409 m
+538.5826771653544256 725.6695275590550409 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 708.6616535433070112 Td
+(5.1 Hotspot Prediction) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 685.9844881889763428 Td
+(District-level risk forecasting with confidence scores and contributing factors.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 671.8112598425196893 Td
+(•  6 districts under continuous prediction: Ghazipur Border Area \(92/100\), IGI Cargo \(88/100\), Chandni Chowk) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 657.6380314960629221 Td
+(\(85/100\), Gurugram Cyber City \(75/100\), Dwarka \(70/100\), Jamia Nagar \(68/100\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 643.4648031496062686 Td
+(•  Risk trend indicators: Rising/Stable with directional arrows) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 629.291574803149615 Td
+(•  Confidence scores: 68-85% based on data quality and pattern strength) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 615.1183464566928478 Td
+(•  Contributing factors broken down per district \(3-4 factors each\)) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 600.9451181102361943 Td
+(5.2 Network Disruption Simulation) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 578.2679527559055259 Td
+(What-if scenario modeling — simulates the impact of arresting specific targets on the overall network.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 564.0947244094487587 Td
+(•  3 simulation scenarios with varying target profiles) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 549.9214960629921052 Td
+(•  Network fragmentation percentage — quantifies operation impact) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 535.748267716535338 Td
+(•  Downstream disruption listing — specific nodes affected) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 521.5750393700786844 Td
+(•  Escaped node identification — operatives likely to evade) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 507.4018110236219741 Td
+(•  Escalation risk assessment — Low/Medium/High with reasoning) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 493.2285826771653205 Td
+(•  Coordinated raid scenario achieves 95% network fragmentation with high escalation risk) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 479.0553543307086102 Td
+(5.3 Threat Forecast) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 456.378188976377885 Td
+(24/48/72-hour threat probability forecasts with actionable recommendations.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 442.2049606299212314 Td
+(•  Three timeframes: 24-hour \(72% probability\), 48-hour \(64%\), 72-hour \(55%\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 428.0317322834645211 Td
+(•  Projected threats per timeframe \(3 threats each\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 413.8585039370078107 Td
+(•  Recommended counter-actions per timeframe \(3 actions each\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 399.6852755905511003 Td
+(•  Probability decreases over time reflecting increasing uncertainty) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 385.5120472440944468 Td
+(•  Action-items formatted as tactical directives for operational teams) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 6853
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 785.1970866141732586 Td
+(6. Dataset & Intelligence Scenario) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 768.1892125984251152 m
+198.4251968503937178 768.1892125984251152 l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 745.5120472440944468 Td
+(The ARGUS-NCR platform runs on a realistic, internally consistent intelligence scenario centered on organized crime) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 731.3388188976377933 Td
+(networks in Delhi NCR.) Tj
+ET
+0.16 0.21 0.33 RG
+0.8503937007874016 w
+56.6929133858267775 711.4962992125983874 m
+538.5826771653544256 711.4962992125983874 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 694.4884251968503577 Td
+(6.1 Entity Network) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 671.8112598425196893 Td
+(28 base entities distributed across 7 types:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 657.6380314960629221 Td
+(•  8 Persons of Interest: Vikram Malhotra \(Risk 78\), Rashid Qureshi \(Risk 91 — HVT\), Anita Sharma \(Risk 45\),) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 643.4648031496062686 Td
+(Deepak Tyagi \(Risk 22\), Farhan Siddiqui \(Risk 85\), Meera Kapoor \(Risk 15\), Suresh Kalmadi \(Risk 67\), Priya Nair) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 629.291574803149615 Td
+(\(Risk 52\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 615.1183464566928478 Td
+(•  4 Locations: Ghaziabad Warehouse \(Risk 72\), Jamia Nagar Safe House \(Risk 88\), Chandni Chowk Import) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 600.9451181102361943 Td
+(Office \(Risk 65\), IGI Airport Cargo Terminal \(Risk 40\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 586.7718897637794271 Td
+(•  3 Vehicles: DL-3C-AX-7842 \(Innova, Malhotra\), UP-16-T-9054 \(Tata Ace, Qureshi\), HR-26-AB-1234 \(Creta,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 572.5986614173227736 Td
+(Kalmadi\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 558.42543307086612 Td
+(•  3 Organizations: Siddiqui Imports LLC \(Risk 82\), NCR Transport Syndicate \(Risk 75\), Delhi Infrastructure Corp) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 544.2522047244094665 Td
+(\(Risk 58\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 530.0789763779526993 Td
+(•  4 Events: Cargo Shipment, Cash Deposit, Border Crossing, Property Registration) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 515.9057480314959321 Td
+(•  3 Communications: Phone Intercept, Email Intercept, WhatsApp Group) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 501.7325196850393354 Td
+(•  2 Financial: Hawala Transfer, Property Payment) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 487.559291338582625 Td
+(6.2 Key Scenario Threads) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 464.8821259842518998 Td
+(Four interconnected criminal networks form the intelligence picture:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 450.7088976377952463 Td
+( •     S m u g g l i n g   P i p e l i n e :   R a s h i d   Q u r e s h i  !’   c r o s s - b o r d e r   m o v e m e n t  !’   G h a z i a b a d   w a r e h o u s e  !’   I G I   c a r g o  !’   S i d d i q u i) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 436.5356692913385359 Td
+(Imports — 30 relationship links connecting the network) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 422.3624409448818255 Td
+( •     H a w a l a   N e t w o r k :   ¹ 3 . 2 C r   t r a c e d   f r o m   C h a n d n i   C h o w k   t o   D u b a i ,   l i n k e d   t o   M a l h o t r a   &   S i d d i q u i   —   s h e l l   c o m p a n y) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 408.1892125984251152 Td
+(suspected) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 394.0159842519684616 Td
+( •     C o r r u p t i o n   R i n g :   A n i t a   S h a r m a   \( M C D   o f f i c i a l \)   +   S u r e s h   K a l m a d i   \( d e v e l o p e r \)  !’   s h e l l   c o m p a n y   l a n d   d e a l s   v i a) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 379.8427559055117513 Td
+(Delhi Infrastructure Corp — property registration in Dwarka flagged) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 365.6695275590550409 Td
+(•  Encrypted Comms: "Project Alpha" WhatsApp group with 7 members and 234 messages coordinating smuggling) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 351.4962992125983874 Td
+(operations — decrypted by signals intelligence) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 337.323070866141677 Td
+(6.3 Network Connectivity) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 314.6459055118109518 Td
+(30 relationship links connecting all entities into a cohesive intelligence graph:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 300.4726771653542983 Td
+( •     C o m m u n i c a t i o n   l i n k s :   M a l h o t r a  !”   Q u r e s h i   \( h i g h   f r e q u e n c y \) ,   Q u r e s h i  !”   S i d d i q u i   \( m e d i u m   f r e q u e n c y \)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 286.2994488188975311 Td
+(•  Business links: Malhotra + Siddiqui are directors of Siddiqui Imports LLC) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 272.1262204724408775 Td
+(•  Employment links: Anita Sharma + Suresh Kalmadi linked to Delhi Infrastructure Corp) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 257.952992125984224 Td
+(•  Ownership links: Vehicles traced to Malhotra, Qureshi, Kalmadi) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 243.7797637795274568 Td
+(•  Event links: Cargo shipment tied to Siddiqui Imports, border crossing tied to Qureshi vehicle, property) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 229.6065354330708033 Td
+(registration involving Sharma and Kalmadi) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 7429
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 785.1970866141732586 Td
+(7. Automation & Scheduling) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 768.1892125984251152 m
+198.4251968503937178 768.1892125984251152 l
+S
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 745.5120472440944468 Td
+(All data pipelines run on cron-based schedules ensuring the platform stays current without manual intervention.) Tj
+ET
+0.16 0.21 0.33 RG
+0.8503937007874016 w
+56.6929133858267775 725.6695275590550409 m
+538.5826771653544256 725.6695275590550409 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 708.6616535433070112 Td
+(7.1 Cron Jobs) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 685.9844881889763428 Td
+(•  Daily Feed Generator: Runs at 6:00 AM IST daily — generates 10-15 new intelligence signals \(events, comms,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 671.8112598425196893 Td
+(financial, alerts\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 657.6380314960629221 Td
+(•  Phase 2 Connectors: Runs every hour — scrapes 15 news articles, generates 7 beat reports, tracks 5-10 ANPR) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 643.4648031496062686 Td
+(hits) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 629.291574803149615 Td
+(•  Phase 3 AI Engine: Runs every hour — processes Phase 2 output through entity extraction, relationship) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 615.1183464566928478 Td
+(discovery, risk scoring, and anomaly detection) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 600.9451181102361943 Td
+(7.2 Data Flow Pipeline) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 578.2679527559055259 Td
+( P h a s e   2   C o n n e c t o r s  !’   p h a s e 2 - f e e d . j s o n   \( p u b l i c / \)  !’   P h a s e   3   E n g i n e   r e a d s   p h a s e 2 - f e e d . j s o n  !’   p h a s e 3 - f e e d . j s o n   \( p u b l i c / \)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 564.0947244094487587 Td
+(Dashboard polls daily-feed.json every 30 seconds) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 549.9214960629921052 Td
+(Phase 2 view polls phase2-feed.json every 60 seconds) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 535.748267716535338 Td
+(Phase 3 view polls phase3-feed.json every 60 seconds) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 521.5750393700786844 Td
+(No rebuild required — all feeds served as static JSON from the public/ directory) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 507.4018110236219741 Td
+(7.3 Output Files) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 484.7246456692913057 Td
+(•  daily-feed.json — Synthetic daily intelligence \(movement, comms, financial, alerts\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 470.5514173228345953 Td
+(•  phase2-feed.json — Live scraped news, beat reports, ANPR hits) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 456.378188976377885 Td
+(•  phase3-feed.json — Entity extraction results, discovered relationships, recalculated risk scores, anomaly flags) Tj
+ET
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 442.2049606299212314 Td
+(8. Technical Architecture) Tj
+ET
+0.02 0.71 0.83 RG
+1.4173228346456694 w
+56.6929133858267775 425.1970866141731449 m
+198.4251968503937178 425.1970866141731449 l
+S
+0.16 0.21 0.33 RG
+0.8503937007874016 w
+56.6929133858267775 396.850629921259781 m
+538.5826771653544256 396.850629921259781 l
+S
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 379.8427559055117513 Td
+(8.1 Frontend Stack) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 357.1655905511810261 Td
+(•  Framework: Next.js 16 with App Router and TypeScript) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 342.9923622047243725 Td
+(•  Styling: Tailwind CSS with custom CSS variables for dark military-grade theme) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 328.8191338582676053 Td
+(•  Maps: Leaflet with CartoDB dark tiles, dynamic import for SSR safety) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 314.6459055118109518 Td
+(•  Charts: Recharts \(PieChart, BarChart with dark theme customization\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 300.4726771653542983 Td
+(•  Graph: Custom SVG force-directed layout with velocity-based physics simulation) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 286.2994488188975311 Td
+(•  Icons: Lucide React \(60+ icons used across platform\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 272.1262204724408775 Td
+(•  PDF: jspdf for documentation generation) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 257.952992125984224 Td
+(8.2 Backend & Data) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 235.2758267716534419 Td
+(•  Data Pipelines: Node.js scripts \(ES modules\) with crypto for ID generation) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 221.1025984251967884 Td
+(•  Web Scraping: Native http/https modules + regex-based RSS parsing) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 206.9293700787401349 Td
+(•  NLP: Pattern-based NER with Indian name databases \(70 names\) and Delhi NCR gazetteer) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 192.7561417322833677 Td
+(•  Analytics: Statistical deviation detection with rolling baselines and multiplicative thresholds) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 178.5829133858267141 Td
+(•  Scheduling: OpenClaw cron system with isolated agent sessions) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 164.4096850393699469 Td
+(8.3 File Structure) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.886 0.91 0.941 rg
+56.6929133858267775 141.7325196850392786 Td
+(Key files in the ARGUS-NCR codebase:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 127.559291338582625 Td
+(•  src/lib/data.ts — Base entity network \(28 entities, 30 links, 8 alerts\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 113.3860629921258578 Td
+(•  src/lib/daily-feed.ts — Daily intelligence feed \(auto-generated\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 99.2128346456692043 Td
+(•  scripts/generate-feed.js — Daily feed generator) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 85.0396062992125508 Td
+(•  scripts/phase2-connectors.js — News scraper + beat analytics + ANPR tracker) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 2185
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 785.1970866141732586 Td
+(•  scripts/phase3-engine.js — Entity extraction + relationship discovery + risk scoring + anomaly detection) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 771.0238582677164914 Td
+(•  public/daily-feed.json — Runtime feed \(no rebuild required\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 756.8506299212598378 Td
+(•  public/phase2-feed.json — Phase 2 runtime feed) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 742.6774015748030706 Td
+(•  public/phase3-feed.json — Phase 3 runtime feed) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 728.5041732283464171 Td
+(•  src/components/ — 12 React components \(sidebar, dashboard, geospatial, graphview, timeline, alertsview,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 714.3309448818897636 Td
+(dataview, phase2-view, phase3-view, phase45-view, ouroboros-logo\)) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.231 0.51 0.965 rg
+56.6929133858267775 700.15771653543311 Td
+(8.4 Performance) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 677.480551181102328 Td
+(•  Static exports: JSON feeds served directly from public/ directory — zero server processing) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 663.3073228346456744 Td
+(•  Client-side polling: 30-60 second intervals with cache-busting params) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 649.1340944881889072 Td
+(•  Map lazy loading: Leaflet dynamically imported in useEffect to avoid SSR window errors) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 634.9608661417322537 Td
+(•  Graph physics: Client-side force simulation with 200 iterations, capped at 40 nodes) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+70.8661417322834666 620.7876377952754865 Td
+(•  Build size: ~37KB initial page, feeds under 50KB each) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 2621
+>>
+stream
+0.8503937007874016 w
+0.16 0.21 0.33 RG
+BT
+/F2 22 Tf
+25.2999999999999972 TL
+0.024 0.714 0.831 rg
+56.6929133858267775 671.8112598425196893 Td
+(ARGUS-NCR) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.58 0.639 0.722 rg
+56.6929133858267775 643.4648031496062686 Td
+(Delhi NCR Intelligence Platform) Tj
+ET
+0.02 0.71 0.83 RG
+2.8346456692913389 w
+56.6929133858267775 626.4569291338582389 m
+226.7716535433071101 626.4569291338582389 l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.58 0.639 0.722 rg
+56.6929133858267775 592.4411811023621794 Td
+(Platform Statistics) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 572.5986614173227736 Td
+(•  28 Base Entities · 30 Relationship Links · 8 Base Alerts) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 549.9214960629921052 Td
+( •     5   P h a s e   P i p e l i n e :   C o r e  !’   D a t a  !’   A I  !’   O p s  !’   P r e d i c t i v e) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 527.2443307086614368 Td
+(•  12 React Components · 3 Node.js Engine Scripts) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 504.5671653543306547 Td
+(•  3 Cron Jobs · 3 Live JSON Feeds · 7 Data Modules) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 481.8899999999999295 Td
+(•  15 Real-time News Articles \(Hourly\) · 5 RSS Sources) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 459.2128346456692611 Td
+(•  14 Police Districts · 15+ Key Locations · 15 Crime Types) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 436.5356692913385359 Td
+(•  10 ANPR Camera Locations · 8 Tracked Vehicles) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 413.8585039370078107 Td
+(•  6 Participating Agencies · 5 Active Cases · 5 Evidence Items) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+70.8661417322834666 391.1813385826770855 Td
+(•  6 Predictive Hotspots · 3 Disruption Scenarios · 3 Threat Forecasts) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 325.9844881889763428 Td
+(Classification: UNCLASSIFIED | Demonstration Model with Synthetic Data) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 311.8112598425195756 Td
+(Built with AutoClaw | Agent: winter4 | Stack: Next.js 16 + TypeScript + Tailwind) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 297.6380314960629221 Td
+(No real intelligence, PII, or classified information is included.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R ]
+/Count 12
+>>
+endobj
+27 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+28 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+29 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+30 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+31 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+32 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+33 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+34 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+35 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+36 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+37 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+38 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+39 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+40 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 27 0 R
+/F2 28 0 R
+/F3 29 0 R
+/F4 30 0 R
+/F5 31 0 R
+/F6 32 0 R
+/F7 33 0 R
+/F8 34 0 R
+/F9 35 0 R
+/F10 36 0 R
+/F11 37 0 R
+/F12 38 0 R
+/F13 39 0 R
+/F14 40 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+41 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260616210659+05'30')
+>>
+endobj
+42 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 43
+0000000000 65535 f 
+0000057249 00000 n 
+0000059146 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004811 00000 n 
+0000004948 00000 n 
+0000006414 00000 n 
+0000006551 00000 n 
+0000014600 00000 n 
+0000014738 00000 n 
+0000016080 00000 n 
+0000016219 00000 n 
+0000020769 00000 n 
+0000020908 00000 n 
+0000027208 00000 n 
+0000027347 00000 n 
+0000032716 00000 n 
+0000032855 00000 n 
+0000037393 00000 n 
+0000037532 00000 n 
+0000044438 00000 n 
+0000044577 00000 n 
+0000052059 00000 n 
+0000052198 00000 n 
+0000054436 00000 n 
+0000054575 00000 n 
+0000057381 00000 n 
+0000057507 00000 n 
+0000057638 00000 n 
+0000057772 00000 n 
+0000057910 00000 n 
+0000058034 00000 n 
+0000058163 00000 n 
+0000058295 00000 n 
+0000058431 00000 n 
+0000058559 00000 n 
+0000058686 00000 n 
+0000058815 00000 n 
+0000058948 00000 n 
+0000059050 00000 n 
+0000059399 00000 n 
+0000059485 00000 n 
+trailer
+<<
+/Size 43
+/Root 42 0 R
+/Info 41 0 R
+/ID [ <D39D1B1E1E1D42ED4C17E8E15C5D1113> <D39D1B1E1E1D42ED4C17E8E15C5D1113> ]
+>>
+startxref
+59589
+%%EOF
